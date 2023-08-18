@@ -9,7 +9,7 @@
 
   <ItemGroup>
     <Folder Include="ElevatorUtil\Interfaces\" />
-    <Folder Include="Log\" />
+    <Folder Include="Loggers\" />
   </ItemGroup>
 
   <ItemGroup>
